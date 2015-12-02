@@ -1,0 +1,1 @@
+Proyecto creado en java que resuelve el juego del cruce del puente con linterna y también un algoritmo que resuelve números aleatorios que no se repitan en una matriz con adyacencia.
